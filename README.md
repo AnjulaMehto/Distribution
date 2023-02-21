@@ -9,3 +9,5 @@
 ### *<a href= "https://datasciencedojo.com/blog/types-of-statistical-distributions-in-ml/"> Click Here</a>*
 ## **3. Poisson Distributions | Definition, Formula & Examples**
 ### *<a href= "https://www.scribbr.com/statistics/poisson-distribution/#:~:text=A%20Poisson%20distribution%20is%20a,the%20mean%20number%20of%20events."> Click Here</a>*
+## **4. Use calculator to compute probability with Z-score (no need to use z table anymore)**
+### *<a href= "https://www.youtube.com/watch?v=KxE2XBPcgeM"> Click Here</a>*
