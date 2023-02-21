@@ -5,5 +5,7 @@
 ## **Step 2- Explore the below links**
 ## **1. Bernoulli Distribution**
 ### *<a href= "https://www.cuemath.com/data/bernoulli-distribution/"> Click Here</a>*
-## **1. 7 types of statistical distributions with practical examples**
+## **2. 7 types of statistical distributions with practical examples**
 ### *<a href= "https://datasciencedojo.com/blog/types-of-statistical-distributions-in-ml/"> Click Here</a>*
+## **2. Poisson Distributions | Definition, Formula & Examples **
+### *<a href= "https://www.scribbr.com/statistics/poisson-distribution/#:~:text=A%20Poisson%20distribution%20is%20a,the%20mean%20number%20of%20events."> Click Here</a>*
