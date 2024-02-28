@@ -1,7 +1,7 @@
 
 # **Distribution**
 ## **Step 1- Go through "DistributionPPT" to learn Distribution, its examples and its types**
-### *<a href= "https://docs.google.com/presentation/d/e/2PACX-1vQrZoyGjBXA6ytCrQXo-8VMLzD4VfRG9GzCx9KoPC_G_1z6HoGA4bstx2KjrB3hsw/pub?start=false&loop=false&delayms=3000"> Click Here</a> for ppt.*
+### *<a href= "https://docs.google.com/presentation/d/e/2PACX-1vQnpzaub5cnDt4Lwg2XpIp-NyDdewadW7qyz5Yj2ZWnehOrqTNmKpo6eC3kTJIeKQ/pub?start=false&loop=false&delayms=1000"> Click Here</a> for ppt.*
 ## **Step 2- Explore the below links**
 ## **1. Bernoulli Distribution**
 ### *<a href= "https://www.cuemath.com/data/bernoulli-distribution/"> Click Here</a>*
